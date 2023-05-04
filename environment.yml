@@ -2,5 +2,5 @@ name: vagabond
 channels:
   - conda-forge
 dependencies:
-  - xeus-cling=0.8.1
+  - xeus-cling
   - notebook
