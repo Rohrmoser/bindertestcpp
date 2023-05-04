@@ -4,3 +4,4 @@ channels:
 dependencies:
   - xeus-cling
   - notebook
+  - voila
