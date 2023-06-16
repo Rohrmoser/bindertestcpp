@@ -2,7 +2,9 @@ name: vagabond
 channels:
   - conda-forge
 dependencies:
-  - xeus-cling
   - notebook
   - jupyterlab>=3.1
   - voila>=0.2.11
+  - xeus-cling=0.13.0
+  - xwidgets=0.26.1
+  - widgetsnbextension >=3.0.0
